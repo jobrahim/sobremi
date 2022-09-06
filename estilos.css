@@ -38,7 +38,7 @@ a {
 
 .titular {
     text-align: center;
-    margin-top: 200px;
+    margin-top: 90px;
 }
 
 h1 {
@@ -60,7 +60,7 @@ a {
 }
 
 header {
-    background: url('fondo.jpg');
+    background: url('fondo2.jpg');
     margin: auto;
     height: 100vh;
     background-size: cover;
